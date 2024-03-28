@@ -1,0 +1,16 @@
+body{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+#box{
+    width: 20rem;
+    background-color: blue;
+    cursor:zoom-in;
+    color: aqua;
+    text-align: center;
+    border-radius:5px;
+    font-size:25px;
+}
